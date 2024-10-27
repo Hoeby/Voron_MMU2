@@ -1,4 +1,4 @@
-[Original github location](https://github.com/mjonuschat/NightOwl/tree/main)
+[Original github file location, of the designer](https://github.com/mjonuschat/NightOwl/tree/main)
 
 # NightOwl: Integrated Dual Spool Filament Switching System
 
