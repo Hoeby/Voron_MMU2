@@ -1,4 +1,4 @@
-https://github.com/Esoterical/PrinterMods/tree/main/Primitive%20Infinite%20Spool%20System
+[Original github file location, of the designer](https://github.com/Esoterical/PrinterMods/tree/main/Primitive%20Infinite%20Spool%20System).
 
 # Primitive Infinite Spool System
 
