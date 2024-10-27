@@ -1,3 +1,5 @@
+https://github.com/Esoterical/PrinterMods/tree/main/Primitive%20Infinite%20Spool%20System
+
 # Primitive Infinite Spool System
 
 **This is a work in progress, stuff will change or get added/removed at random**
